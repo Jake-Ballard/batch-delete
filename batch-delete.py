@@ -6,7 +6,6 @@ import time
 op_log = open("batch_" + str(time.time()) + ".log", "w")
 
 # set root dir (you might change it :P)
-# os.chdir('/') # - linux / mac os
 os.chdir('c:\\')  # - winZoz
 
 # set counters
